@@ -9,7 +9,7 @@ If you use this code in your research, please cite our work as follows:
 
 ```
 @misc{gomez2024,
-  title={EMOVOME Database: Advancing Emotion Recognition in Speech Beyond Staged Scenarios},
+  title={EMOVOME: A Dataset for Emotion Recognition in Spontaneous Real-Life Speech},
   author={Lucía Gómez-Zaragozá and Rocío del Amor and María José Castro-Bleda and Valery Naranjo and Mariano Alcañiz Raya and Javier Marín-Morales},
   year={2024},
   eprint={2403.02167},
