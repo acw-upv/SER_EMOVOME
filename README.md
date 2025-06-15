@@ -4,7 +4,7 @@ This repository contains the Python implementation of the article: "EMOVOME: A D
 ## Citation
 If you use this code in your research, please cite our work as follows:
 
-> L. Gómez-Zaragozá, R. del Amor, M. Castro-Bleda, V. Naranjo, M. Alcañiz Raya and J. Marín-Morales, "EMOVOME Database: Advancing Emotion Recognition in Speech Beyond Staged Scenarios", 2024. [https://arxiv.org/abs/2403.02167](https://arxiv.org/abs/2403.02167)
+> L. Gómez-Zaragozá, R. del Amor, M. Castro-Bleda, V. Naranjo, M. Alcañiz Raya and J. Marín-Morales, "EMOVOME: A Dataset for Emotion Recognition in Spontaneous Real-Life Speech", 2024. [https://arxiv.org/abs/2403.02167](https://arxiv.org/abs/2403.02167)
 
 
 ```
