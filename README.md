@@ -1,5 +1,5 @@
 # Speech Emotion Recognition (SER) using the EMOVOME database
-This repository contains the Python implementation of the article: "EMOVOME Database: Advancing Emotion Recognition in Speech Beyond Staged Scenarios".
+This repository contains the Python implementation of the article: "EMOVOME: A Dataset for Emotion Recognition in Spontaneous Real-Life Speech".
 
 ## Citation
 If you use this code in your research, please cite our work as follows:
